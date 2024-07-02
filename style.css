@@ -1,0 +1,50 @@
+body{
+    background-color: lightcyan;
+}
+
+header{
+    background-color: bisque;
+}
+
+.cabecalho{
+    padding: 10px;
+}
+.cabecalho .logo{
+    display: inline-block;
+}
+
+.cabecalho nav{
+    float: right;
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+}
+
+.cabecalho nav li a{
+    font-size: 18px;
+}
+
+main{
+    background-color: lightgrey;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px;
+    min-width: 320px;
+}
+
+.titulo{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px 0px 15px 0px;
+}
+
+.sinopse{
+    font-size: 15px;
+    padding: 0px 0px 10px 0px;
+}
+
+.image img{
+    width: 100%;
+}
